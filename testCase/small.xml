@@ -1,0 +1,6 @@
+{
+  "int", 313
+  "float", 3.1415
+  "char", 'm'
+  "char *", NULL
+}
